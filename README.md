@@ -1,3 +1,3 @@
 # 👋 Hi, I’m @AsgerNoer
 
-I'm truely very happy to see you. I'm currently writing software for the largest telco firm in Denmark.
+Thank you for checking my GitHub page. I'm a 25 year old backend developer writing software for the largest telecommunications company in Denmark.
