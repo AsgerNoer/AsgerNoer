@@ -15,4 +15,5 @@ jobs:
         reponame: AsgerNoer
         token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
         cname: asgernoer.dk
-        gitemail: ${ secrets.EMAIL }
+        gitname: Asger Noer
+        gitemail: ${{ secrets.EMAIL }}
